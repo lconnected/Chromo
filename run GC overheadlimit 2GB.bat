@@ -1,0 +1,1 @@
+java -XX:-UseGCOverheadLimit -Xmx2048m -jar dist/Chromo.jar
